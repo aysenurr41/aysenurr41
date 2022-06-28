@@ -6,8 +6,8 @@ I'm a Jr. Java Developer and Jr. Front End Developer!
 
 * 🌍  I'm based in Turkey/Kocaeli
 * ✉️  You can contact me at [demir.aysenur.96@gmail.com](mailto:demir.aysenur.96@gmail.com)
-* 🚀  I'm currently working on [I’m currently working on a Java Project!](https://github.com/aysenurr41/on-table-ordering-system-QR-Code)
-* 🧠  I'm learning I’m currently learning HTML, CASS, Java, JavaScript, etc.
+* 🚀  I'm currently working on [I’m currently working on a Java Spring Boot Project!](https://github.com/aysenurr41/on-table-ordering-system-QR-Code)
+* 🧠  I'm learning I’m currently learning HTML, CSS, Java, JavaScript, etc.
 * ⚡  I love to explore new repositories
 
 <a href="https://www.github.com/aysenurr41" target="_blank" rel="noreferrer"><img
